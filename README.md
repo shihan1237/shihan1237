@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ham Shi, 25 years old in Huawei Shanghai, China.
+- 👋 Hi, I’m Ham Shi, 25 years old in Shanghai, China.
 - 👀 I’m interested in Java programming, web programming;
 - 🌱 I’m currently learning Java and front-end web technologies;
 - 💞️ I’m looking to become a full-stack programmer, and finnally find a good remote job~
