@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ham Shi, living in Shanghai, China.
-- 👀 I’m interested in Java programming, web programming;
-- 🌱 I’m currently learning Java and front-end web technologies;
-- 💞️ I’m looking to become a full-stack programmer, and finnally find a good remote job~
+- 👀 I’m interested in Java programming, C++ programming;
+- 🌱 I’m currently learning C++ and front-end web technologies;
+- 💞️ I’m looking to become a full-stack programmer;
 - 📫 How to reach me: hamshiageek@gmail.com
 
 <!---
